@@ -19,8 +19,9 @@
 <p>(-Delta + 1)u=f in Omega, Delta=d^2/dx^2+d^2/dy^2</p>
 <p>u=g on the boundary of Omega</p>
 </ul>
-<p><img src="./Omega.png" align=Top alt="the domain Omega" width="300" height="300"><br>The Domain Omega</p>
-<p><img src="./f.png" align=Top alt="The homogeneous data f in Omega" width="300" height="300"><br>The inhomogeneous data f in Omega</p>
+<img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/17e8a251-5226-4b7b-ac4d-018f4e3ed85c" />
+
+<img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/6e0361aa-6617-43b3-b137-40aa12d44ece" />
 
 <h2>Generating mesh and matrices by Frefem++</h2>
 <p>We choose the following f and g: f=-10*sin(x)sin(y), g=0.</p>
